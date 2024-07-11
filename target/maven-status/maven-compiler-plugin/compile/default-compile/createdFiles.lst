@@ -1,2 +1,4 @@
-org\elkynsamayoa\webapp\SGBDProductosSamayoa\JakartaRestConfiguration.class
-org\elkynsamayoa\webapp\SGBDProductosSamayoa\resources\JakartaEE10Resource.class
+Main.class
+org\elkynsamayoa\webapp\servlet\ProductosServlet.class
+org\elkynsamayoa\webapp\model\Producto.class
+org\elkynsamayoa\webapp\util\JPAUtil.class

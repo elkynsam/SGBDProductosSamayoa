@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/SGBDProductosSamayoa"/>
+<Context path="/SGBDProductosSamayoa">
+<Resource name="jdbc/SGBDProductosSamayoa"
+               auth="Container"
+               type="javax.sql.DataSource"
+               maxIdle="30"
+               maxTotal="100"
+               maxWaitMillis="10000"
+               username="elkynsamayoa" 
+               password="2006"
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/SGBDProductosSamayoa?serverTime=GMT-6/"/>
+</Contex>

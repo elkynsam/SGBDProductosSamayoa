@@ -1,2 +1,4 @@
-D:\kinal tareas\SGBDProductosSamayoa\src\main\java\org\elkynsamayoa\webapp\SGBDProductosSamayoa\resources\JakartaEE10Resource.java
-D:\kinal tareas\SGBDProductosSamayoa\src\main\java\org\elkynsamayoa\webapp\SGBDProductosSamayoa\JakartaRestConfiguration.java
+C:\Users\Informatica\Desktop\GitSam\SGBDProductosSamayoa\src\main\java\org\elkynsamayoa\webapp\model\Producto.java
+C:\Users\Informatica\Desktop\GitSam\SGBDProductosSamayoa\src\main\java\org\elkynsamayoa\webapp\servlet\ProductosServlet.java
+C:\Users\Informatica\Desktop\GitSam\SGBDProductosSamayoa\src\main\java\org\elkynsamayoa\webapp\util\JPAUtil.java
+C:\Users\Informatica\Desktop\GitSam\SGBDProductosSamayoa\src\main\java\Main.java
